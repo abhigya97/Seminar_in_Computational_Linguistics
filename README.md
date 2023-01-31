@@ -1,1 +1,2 @@
-# Seminar_in_Computational_Linguistics
+# Seminar in Computational_Linguistics
+Codes for the course.
